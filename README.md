@@ -17,10 +17,13 @@ Pro Bono project from scratch
     - Where the magic happens.
   - Control.
     - This should be as automated as possible.
-  - Close
-    - Learnings, corrections for the future and next iteration brainstorming.
+  - Close.
+    - Learnings, corrections for the future and follow-up iteration(s) brainstorming.
 
-# Next iterations proposed
+# Next iterations proposed as of April 2021:
+- Define a goal.
 - Find similar tech pro-bono projects.
 - Social IT projects and job openings search engine.
-- Small, to the point project management tool.
+
+# Side projects that don't count as iterations
+- Small, open, to-the-point project management tool.
