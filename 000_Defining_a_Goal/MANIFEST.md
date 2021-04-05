@@ -13,4 +13,4 @@ I hereby certify that the product under this folder is a true reflection of the 
 Examples to check against:
 - List of IT jobs on ONGs and communal entities (Ministeriums)
 - List of pro-bono projects similar to this
-- 
+- Project of reallistic digitalisation of schools
