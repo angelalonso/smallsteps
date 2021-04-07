@@ -2,7 +2,7 @@
 Pro Bono project from scratch
 
 # Principles of development
-- We will call each goal, object... iterations.
+- We will call each goal, object... an iteration.
 - Each Iteration will be performed following the rules and methods defined here.
 - The rules and methods are expected to be improved with each iteration. 
   - Past iterations will not be re-adapted to those better rules and methods.
