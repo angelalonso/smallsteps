@@ -7,7 +7,8 @@ I hereby certify that the product under this folder is a true reflection of the 
 - making a statement on what others can do.
 
 
-Examples to check against:
+Examples on how to check against:
+
 - List of IT jobs on ONGs and communal entities (Ministeriums)
   - focusing on improving the live of the user.
   - avoiding further destruction of Planet Earth.
