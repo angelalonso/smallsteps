@@ -22,10 +22,11 @@ Pro Bono project from scratch
 
 # Projects so far:
 - Defining a Goal for this Repository.
+- Defining what would motivate me.
 
 # Next iterations proposed as of April 2021:
-- Find similar tech pro-bono projects.
-- Social IT projects and job openings search engine.
+- First round of research on the current status on the fields that would motivate me.
+- First basis for a starting point project. Precise details depend on previous iterations.
 
 # Side projects that don't count as iterations
 - Small, open, to-the-point project management tool.
